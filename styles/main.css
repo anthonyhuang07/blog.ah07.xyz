@@ -1,0 +1,180 @@
+*, *:after, *:before {
+    outline: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    position: relative;
+}
+
+body{
+    margin:0;
+    position: relative;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color:hsl(229, 73%, 3%);
+}
+
+header{
+    margin: auto;
+    margin-top: 1rem;
+    max-width: 50%;
+    text-align: center;
+    overflow: hidden;
+    padding: 1.5rem 1.5rem;
+    font-family: 'Aldrich', monospace;
+    background-color:
+    hsl(200, 10%, 10%);
+    border-radius: 5rem;
+} header a {
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    text-decoration: none;
+    font-size: 1.5em; 
+    border-radius: 1.5rem;
+    transition: 0.25s background-color;
+} header a:hover{
+    background-color: rgb(36, 36, 40);
+    color: white;
+} header nav{
+    margin: auto;
+}
+
+main{
+    color: #ffffff;
+    text-align: center;
+} main h1{
+    font-family: 'Aldrich', monospace;
+    font-size:3em;
+    color: #ffffff;
+    padding: 1rem;
+} main p{
+    font-family: 'Fira Code', monospace;
+    font-size: 1.75em;
+    width: 90%;
+} main a{
+    color: #a2ddff;
+    text-decoration: none;
+    transition: text-shadow 0.3s;
+} main ul{
+    font-family: 'Fira Code', 'Helvetica Neue', sans-serif;
+    font-size: 1.4em;
+    width: 90%;
+    list-style-position: inside;
+    margin: auto;
+} main h2{
+    font-family:'Aldrich', Helvetica, sans-serif;
+    margin: 15px;
+} main a:hover{
+    text-shadow: 0 0 5px #4b93ff;
+} main img{
+    padding: 1.5rem;
+} main hr{
+    margin: auto;
+    margin-top: 3rem;
+    border: white solid 0.1rem;
+    border-radius: 100rem;
+    width: 75%;
+}
+
+.cool{
+    position: relative;
+    margin: 0;
+    width: 100%;
+    padding: 10rem 2rem 10rem;
+    font-size: 2em;
+}
+
+/* hello there */
+
+.date{
+    background: linear-gradient(to right, #ffbb00, #ffaa00, #ff9900, #ff8800, #ff7700, #ff6600, #ff5500, #ff4400);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: rainbow_animation 6s ease-in-out infinite;
+    background-size: 400% 100%;
+}
+
+@keyframes rainbow_animation {
+    0%,100% {
+        background-position: 0 0;
+    }
+
+    50% {
+        background-position: 100% 0;
+    }
+}
+
+article{
+    padding-left: 0;
+    display: block;
+    text-align: center;
+    margin: auto;
+    background-color:hsl(200, 10%, 10%);
+    padding: 2rem 0 2rem 0rem;
+    width: 90%;
+    border-radius: 2rem;
+} article ul{
+    color: #eaeaea;
+    margin: auto;
+    line-height: 30px;
+    list-style-position: inside;
+    font-size: 1.5em;
+} article p{
+    margin: auto;
+    text-align: center;
+    width: 80%;
+}
+
+footer{
+    margin: auto;
+    text-align: center;
+    font-family: 'Aldrich', Helvetica, sans-serif;
+    padding: 1.5em;
+} footer a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+button{
+    border: none;
+    padding: 20px;
+    font-size:20px;
+    font-family:'Aldrich', Helvetica, sans-serif;
+    margin-bottom: 30px;
+    color: #ffffff;
+} button:hover{
+    cursor: pointer;
+}
+
+@media screen and (max-width: 500px){
+    header a{
+        font-size: 1.6em; 
+        line-height: 2.5rem;
+        padding: 0.5rem;
+    }
+
+    .cool{
+        padding: 2rem;
+    } .cool h1{
+        font-size:1.5em;
+    }
+
+    article p{
+        font-size: 1.4em;
+        width: 80%;
+    } article li{
+        margin: auto;
+        font-size: 0.8em;
+        width: 100%;
+    }
+}
