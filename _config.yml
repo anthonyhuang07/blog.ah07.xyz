@@ -21,15 +21,15 @@ timezone: America/Toronto
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: blog.ah07.xyz                          # the main title
+title: FHDHGNGN - Blog                          # the main title
 
 tagline: Anthony Huang's personal blog.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Anthony Huang's personal blog - mostly about technology and programming! (Theme is Jekyll Chirpy theme - amazing theme)
+  Anthony Huang's personal blog - mostly about technology and programming!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://ah07.xyz'
+url: 'https://anthonyhuang07.github.io'
 
 github:
   username: anthonyhuang07            # change to your github username

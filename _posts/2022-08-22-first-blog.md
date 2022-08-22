@@ -1,15 +1,15 @@
 ---
-title: Getting Started
-author: cotes
-date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+title: The First Blog!
+author: Anthony Huang
+date: 2022-08-22 18:14:00 -0400
+categories: [Testing]
+tags: [first blog, testing]
 pin: true
 ---
 
-## Prerequisites
+## Hello!
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll`, and `Bundler`. In addition, [Git](https://git-scm.com/) is also required to be installed.
+Hello, this is a test of the new `ah07.xyz` blog! (Go visit the main site [here](https://ah07.xyz))
 
 ## Installation
 
