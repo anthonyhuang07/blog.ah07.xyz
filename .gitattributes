@@ -15,4 +15,7 @@
 *.jpg binary
 *.ico binary
 
-/_sass/* linguist-language=CSS
+/_sass/*.scss linguist-language=CSS
+/_sass/layout/*.scss linguist-language=CSS
+/_sass/colors/*.scss linguist-language=CSS
+/_sass/addon/*.scss linguist-language=CSS
