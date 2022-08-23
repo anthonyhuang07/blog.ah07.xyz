@@ -1,8 +1,7 @@
 ---
 title: Main Site
-layout: forward
-icon: fas fa-info-circle
+icon: fas fa-location-dot
 order: 4
+layout: forward
 target: https://ah07.xyz
-targetname: ah07.xyz
 ---
