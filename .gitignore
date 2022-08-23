@@ -7,7 +7,7 @@
 !.husky
 !.commitlintrc.json
 !.versionrc.json
-run.sh
+/run.sh
 
 # bundler cache
 _site
