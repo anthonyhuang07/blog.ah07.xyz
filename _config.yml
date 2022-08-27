@@ -19,7 +19,7 @@ timezone: America/Toronto
 
 title: Anthony's Blog                          # the main title
 
-tagline: Anthony Huang's personal blog.   # it will display as the sub-title
+tagline: Anthony Huang's personal tech blog.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Anthony Huang's personal blog - mostly about technology and programming!
