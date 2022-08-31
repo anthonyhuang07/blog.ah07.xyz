@@ -42,6 +42,9 @@ I also recommend clicking on the `Tare Balance Board` button, as it resets all w
 
 All I would change here is the Left and Right actions should both be mapped to `Key Up` or `Key Space`. Forward, Backward, everything else should be set to `Do Nothing`. The numbers don't mean anything, but I would set the Ratio Triggers to 1 just in case.
 
+> If you watched the video, you may have caught that I said that the numbers next to each action triggers it depending on the weight (number) chosen. That is actually the value for how much X and Y movement there is when "Mouse Move" is selected.
+{: .prompt-info }
+
 Now you can untick `Disable All Actions`, and open up Geometry Dash!
 
 ### Step 4: Play!
@@ -53,7 +56,4 @@ If you were following the board cam on the video, you can use those hand/foot me
 You can now play Geometry Dash with the Wii Balance Board! Share your progress, questions, concerns all in the new comments section down below! And if you haven't watched the video and decided to read this anyways, go watch the video [right now]().
 
 Goodbye!
-
-> If you watched the video, you may have caught that I said that the numbers next to each action triggers it depending on the weight (number) chosen. That is actually the value for how much X and Y movement there is when "Mouse Move" is selected.
-{: .prompt-info }
 
