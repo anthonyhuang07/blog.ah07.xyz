@@ -53,7 +53,7 @@ If you were following the board cam on the video, you can use those hand/foot me
 
 ## That's it!
 
-You can now play Geometry Dash with the Wii Balance Board! Share your progress, questions, concerns all in the new comments section down below! And if you haven't watched the video and decided to read this anyways, go watch the video [right now]().
+You can now play Geometry Dash with the Wii Balance Board! Share your progress, questions, concerns all in the new comments section down below! And if you haven't watched the video and decided to read this anyways, go watch the video [right now](https://youtu.be/bvTLcdGS_DA).
 
 Goodbye!
 
