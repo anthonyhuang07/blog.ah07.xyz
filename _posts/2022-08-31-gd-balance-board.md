@@ -10,7 +10,7 @@ tags: [gaming, games, geometry dash, wii, wii balance board]
 
 So, if you're here, you probably came from my video about playing Geometry Dash with a Wii Balance Board. Now if the introduction seemed confusing to you (chances are yes) then let's get started.
 
-![lazy ass thumbnail](https://i.imgur.com/XrYzz79.png)
+![lazy ass thumbnail](https://i.imgur.com/cDa4eFs.png)
 
 ## How DO I do it?
 
@@ -38,7 +38,7 @@ I also recommend clicking on the `Tare Balance Board` button, as it resets all w
 
 ### Step 3: Actions
 
-![Balance Board Actions](https://i.imgur.com/pns4Wvh.jpg)
+<img src="https://i.imgur.com/pns4Wvh.jpg" alt="Balance Board Actions" style="border-radius: 0.75rem"/>
 
 All I would change here is the Left and Right actions should both be mapped to `Key Up` or `Key Space`. Forward, Backward, everything else should be set to `Do Nothing`. The numbers don't mean anything, but I would set the Ratio Triggers to 1 just in case.
 
