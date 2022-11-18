@@ -15,7 +15,7 @@
 *.jpg binary
 *.ico binary
 
-*.html linguist-language=Markdown
+*.html linguist-vendored
 *.scss linguist-vendored
 *.js linguist-vendored
 *.rb linguist-vendored
