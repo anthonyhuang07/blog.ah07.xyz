@@ -15,7 +15,6 @@
 *.jpg binary
 *.ico binary
 
-*.html linguist-vendored
 *.scss linguist-vendored
 *.js linguist-vendored
 *.rb linguist-vendored
