@@ -18,7 +18,7 @@
 *.html linguist-vendored
 *.scss linguist-vendored
 *.js linguist-vendored
-*.rb linguist-language=Markdown
+*.rb linguist-vendored
 *Gemfile linguist-vendored
 *.gemspec linguist-vendored
 
