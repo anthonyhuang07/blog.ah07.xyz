@@ -17,7 +17,7 @@
 
 *.scss linguist-vendored
 *.js linguist-vendored
-
+*.rb linguist-vendored
 
 *.md linguist-vendored=false
 *.md linguist-documentation=false
