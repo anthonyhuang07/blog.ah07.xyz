@@ -21,3 +21,6 @@
 *.rb linguist-vendored
 
 *.md linguist-vendored=false
+*.md linguist-documentation=false
+*.md linguist-generated=true
+*.md linguist-detectable=true
