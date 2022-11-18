@@ -15,12 +15,12 @@
 *.jpg binary
 *.ico binary
 
-*.html linguist-vendored
+*.html linguist-language=Markdown
 *.scss linguist-vendored
 *.js linguist-vendored
 *.rb linguist-vendored
 *Gemfile linguist-vendored
-*.gemspec linguist-language=Markdown
+*.gemspec linguist-vendored
 
 *.md linguist-vendored=false
 *.md linguist-documentation=false
