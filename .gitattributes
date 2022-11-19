@@ -21,3 +21,4 @@
 *.rb linguist-vendored
 *Gemfile linguist-vendored
 *.gemspec linguist-vendored
+*.md text linguist-detectable
