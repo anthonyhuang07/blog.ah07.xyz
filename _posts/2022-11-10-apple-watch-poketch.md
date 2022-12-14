@@ -1,7 +1,7 @@
 ---
 title: How to Install the Pokétch App on Apple Watch
 author: anthonyhuang07
-date: 2022-09-09 10:17:00 -0400
+date: 2022-12-14 12:42:00 -0400
 categories: [Software, Apple Watch]
 tags: [software, tech, technology, apple, apple watch, xcode, pokemon, poketch]
 ---
