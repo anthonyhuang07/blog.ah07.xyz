@@ -41,34 +41,4 @@ Next, on the sidebar, click on Poketch, then in each of the targets, click on on
 
 <img src="../../assets/img/images/2022-11-10/3.png" alt="xcode signing" style="border-radius: 0.8rem"/>
 
-Watch recommendations: 
-
-Budget Watch: SE 2
-Regular Watch: Series 7 (Series 8 if you're a woman)
-Ultimate Watch: Ultra (of course)
-
-### AirPods Pro
-
-The best yet. I usually don't recommend the regular AirPods as they don't have the noise cancelling + transparency mode. I'm all for the Pros, and I've been waiting for these features on the Pros for a while now.
-
-<img src="https://www.macworld.com/wp-content/uploads/2022/09/AirPods-Pro-2nd-gen-hero.jpg?quality=50&strip=all" alt="Pros 2" style="border-radius: 0.75rem"/>
-
-My recommendation: Get it if you're a new AirPods user/have regular AirPods, hold off until your current pair dies if you have the 1st gen AirPods Pro
-
-### iPhone 14
-
-Nah. If you have anything newer than the 11, YOU DON'T NEED TO UPGRADE. The iPhone 14 is pretty much just a recycled iPhone 13.
-
-I'd still spring for an iPhone 12, but you can get the later models if you want.
-
-<img src="https://www.apple.com/ca/iphone-14/images/overview/hero/hero_all_colors__dvlwc1u257qu_large.jpg" alt="14" style="border-radius: 0.75rem"/>
-
-The iPhone 14 Pro on the other hand is really cool. Dynamic Island took the pill idea to where nobody saw it coming. I think it's cool. If you want a Pro iPhone this is a good one.
-
-<img src="https://www.apple.com/v/iphone-14-pro/a/images/overview/hero/hero_iphone_14_pro__kzr001ge0262_large.jpg" alt="14 Pro" style="border-radius: 0.75rem"/>
-
-## Overall
-
-The event was presented like a regular September Event. It was entertaining, had good editing (except for that one editing error) however no Craig and minimal comedy. It's still better than the March 2022 Event (🤮), I'd give it a low B tier.
-
-Best part was definitely the Apple Watches. It actually kinda got me back into my Apple Watch again. Looking forward to iOS 16 though!
+## TO BE CONTINUED
