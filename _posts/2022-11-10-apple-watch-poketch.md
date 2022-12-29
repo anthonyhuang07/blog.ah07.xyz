@@ -41,4 +41,4 @@ Next, on the sidebar, click on Poketch, then in each of the targets, click on on
 
 <img src="../../assets/img/images/2022-11-10/3.png" alt="xcode signing" style="border-radius: 0.8rem"/>
 
-## TO BE CONTINUED
+## TBD
