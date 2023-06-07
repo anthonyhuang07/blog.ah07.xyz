@@ -10,7 +10,7 @@ tags: [hardware, tech, technology, apple, apple watch, iphone, airpods, airpods 
 
 I am currently writing this 2 days after the event (yes I'm late i know) but anyways... MY THOUGHTS!
 
-![far out wallpaper](https://media.idownloadblog.com/wp-content/uploads/2022/08/Apple-Far-Out-Event-Wallpaper-for-6K-desktop.png)
+<img src="https://media.idownloadblog.com/wp-content/uploads/2022/08/Apple-Far-Out-Event-Wallpaper-for-6K-desktop.png" alt="Far Out Wallpaper" style="border-radius: 0.75rem"/>
 
 ### Apple Watch
 
