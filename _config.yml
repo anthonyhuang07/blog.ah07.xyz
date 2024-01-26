@@ -34,10 +34,10 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Anthony Huang
-  email: spiral_wafts.0t@icloud.com             # change to your email address
+  email: fhdhgngn@ah07.xyz             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://ah07.xyz/src/contact      # change to your twitter homepage
+    - https://ah07.xyz/contact      # change to your twitter homepage
     - https://github.com/anthonyhuang07       # change to your github homepage
 
 google_site_verification:               # fill in to your verification string
