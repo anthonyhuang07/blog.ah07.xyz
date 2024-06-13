@@ -8,6 +8,10 @@ tags: [ib, school, faq]
 
 ## Introduction
 
+> This post is work in progress! Many parts haven't been added or are unfinished or poorly written.
+{: .prompt-warning }
+
+
 ### What is this post for?
 
 This post was written to help the future IB students (of WOSS specifically) guide their way through the mess of IB. This post will be long, so if you only want the specific information of a topic you are confused about, check out the **Contents** tab on the right side of the page.
@@ -76,3 +80,38 @@ Your IB grade per subject is distributed differently based on the subject. For e
 
 Finally, your final raw percentage is then matched to the level boundary of the subject, and your final points for that subject will be based on the level you got.
 
+## Course Information
+
+### HL English (ENG3UA)
+
+HLE
+
+### HL French (FIF3UB)
+
+easy
+
+### HL Geography (CGF3MB)
+
+### SL Physics (SPH3UB, SPH4UB)
+
+### SL Math (MHF4UA, MCV4UA)
+
+## Internal Assessments (IAs)
+
+### What is an IA?
+
+Your IA is like the course summative - it spans the entirety of the IB course, even if it lasts 2+ semesters, and is always going to be a written report
+
+### Exceptions - Language Subjects
+
+In language subjects such as English, French and Spanish, you will be doing an IO (Individual Oral) instead of an IA. It is how it sounds, 
+
+## Exams
+
+### First Semester Exams (OSSD)
+
+First semester exams are your regular Ontario exams, and will follow the same procedure as previous years. Sometimes the teacher will do something different for the exam because there's no use for an actual exam really, such as HL Geography, where you would most likely just do your 3rd option's test instead of a full course exam.
+
+The exam will be weighted among the tests you have done in this semester, as usual, and will be part of your final predicted grade for the IB course, and part of your final mark for the Ontario course.
+
+The only exam that really matters in this period is Math. 
