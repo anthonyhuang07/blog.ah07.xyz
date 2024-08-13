@@ -115,3 +115,9 @@ First semester exams are your regular Ontario exams, and will follow the same pr
 The exam will be weighted among the tests you have done in this semester, as usual, and will be part of your final predicted grade for the IB course, and part of your final mark for the Ontario course.
 
 The only exam that really matters in this period is Math. 
+
+## CAS (Creativity, Activity, Service)
+
+### What is CAS?
+
+CAS is the IB equivalent of your OSSD volunteer hours. However, in addition to volunteering, you're also given the option to do creative activities (e.g. Piano lessons, going to a school club, etc.) and physical activities (e.g. Going to the gym, weekly house league soccer, etc.). Respectively, these activities go under the Creativity and Activity sections of CAS. For Service, it could be volunteering or doing anything that benefits a community.
