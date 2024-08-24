@@ -16,9 +16,9 @@ tags: [ib, school, faq]
 {: .prompt-warning }
 
 
-### What is this post for?
+### Who is this guide for?
 
-This post was written to help the future IB students (of WOSS specifically) guide their way through the mess of IB. This post will be long, so if you only want the specific information of a topic you are confused about, check out the **Contents** tab on the right side of the page.
+This post was written to help the future IB students of WOSS (other IB schools may also broadly use this guide) guide their way through the mess that is called the International Baccalaureate. This guide will be very long (check the read time at the article header), so if you only want the specific information of a topic you are confused about, check out the **Contents** tab on the right side of the page.
 
 If you have a question that the guide does not answer, you can leave a comment below (you need a GitHub account) or you can DM me on Discord at **@fhdhgngn**.
 
