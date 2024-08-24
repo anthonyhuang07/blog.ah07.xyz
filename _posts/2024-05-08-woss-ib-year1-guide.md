@@ -16,13 +16,15 @@ tags: [ib, school, faq]
 
 This post was written to help the future IB students (of WOSS specifically) guide their way through the mess of IB. This post will be long, so if you only want the specific information of a topic you are confused about, check out the **Contents** tab on the right side of the page.
 
+If you have a question that the guide does not answer, you can leave a comment below (you need a GitHub account) or you can DM me on Discord at **@fhdhgngn**.
+
 ### Who are you?
 
-My name is Anthony Huang, and your fellow Grade 11 classmate (or me) may have shared this post with you. To preface, I am a Grade 11 student (as of the 2023-2024 school year). I am a Practical Executive of the WOSS Computer Science Club, and overall in IB, I'm a Level 5 average student.
+My name is Anthony Huang, and your fellow Grade 11 classmate (or me) may have shared this guide with you. To preface, I am a Grade 12 student (as of the 2024-2025 school year). I am the Co-President of the WOSS Computer Science Club's Practical Section, and overall in IB, I'm a Level 5 average student.
 
-My courses include HL English (Langlit), HL French, HL Geography, SL Physics, SL Chemistry and SL Math. However, since I was in French Immersion, I got to take a spare or an elective for first year, in which I took Grade 11 Computer Science (ICS3U1, Final 96%). Therefore, one of my SLs are in Grade 12, which I will be doing SL Chemistry in the 2024-2025 school year. If any '08s are reading this, there's a chance I might be in your class!
+My courses include HL English (LangLit), HL French, HL Geography, SL Physics, SL Chemistry and SL Math. However, since I was in French Immersion, I got to take a spare or an elective for first year, in which I took Grade 11 Computer Science (ICS3U1, Final 96%). Therefore, one of my SLs are in Grade 12, which I will be doing SL Chemistry in the 2024-2025 school year. If any '08s are reading this, there's a chance I might be in your class!
 
-My first year IB exams have ended, which I took the SL Physics and SL Math exams. I have been predicted a 4 and 5 respectively, however for Physics, my personal prediction has risen to a 5 or a 6, and my Math predicted would remain the same. For Semester 1 HL French I had a Level 5, and in Geography and English I have a 4 and 5 respectively.
+My first year IB exams have ended, where I took the SL Physics and SL Math exams. I was predicted a 4 and 5 respectively, and got a final score of Level 5 in both courses. For Semester 1 HL French I had a Level 5, and in Geography and English I have a 6 and 5 respectively.
 
 ## Experience
 
@@ -93,6 +95,8 @@ easy
 ### HL Geography (CGF3MB)
 
 ### SL Physics (SPH3UB, SPH4UB)
+
+IB SL Physics is one of the hardest IB courses you can take at WOSS (alongside HL Math) and they make it extra hard at WOSS. As the Physics syllabus has changed 
 
 ### SL Math (MHF4UA, MCV4UA)
 
