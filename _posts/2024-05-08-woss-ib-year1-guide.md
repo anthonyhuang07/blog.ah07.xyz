@@ -86,13 +86,15 @@ Finally, your final raw percentage is then matched to the level boundary of the 
 
 ### HL English (ENG3UA)
 
-HLE
+HLE, do not do other class work in this class or else the teacher will beat you. homework homework homework
 
 ### HL French (FIF3UB)
 
-easy
+easy course, embarrassing i didnt get a 6+ idk i threw so hard
 
 ### HL Geography (CGF3MB)
+
+easy class, study literally during the week of a test LOL and play games during class (thats what most people did including me and i got a 6 bc i messed up two tests because i didnt pay attention to what i was supposed to know [skill issue])
 
 ### SL Physics (SPH3UB, SPH4UB)
 
