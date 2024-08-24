@@ -34,7 +34,16 @@ I want to preface by saying this: ALP is nothing like IB. You may have thought A
 
 IB at WOSS generally has an enrollment of less than 200 students per grade. There are a few that drop IB after first year due to it being a bad experience for them, but I would estimate the number of people to do so to be 10-30 people. This is a very niche group of students compared to all the Grade 11s in the school, which amounts to a few hundred people.
 
-Semester 1 starts chill. You get to know the feel of IB and connect with your niche group of peers. The months of September to November feel normal, and there is generally no pressure. The month before Winter Break begins, you begin your [IAs](#internal-assessments-ias), where you will only be expected to finish a proposal.
+Semester 1 starts chill. You get to know the feel of IB and connect with your niche group of peers. The months of September to November feel normal, and there is generally no pressure. The month before Winter Break begins, you begin your [IAs](#internal-assessments-ias), where you will only be expected to finish a proposal. Over Winter Break, the only things you'll have to do is prepare for your IAs and maybe study extra if you're falling behind in your grades.
+
+### Semester 2 
+
+(perform ia)
+(sem1 exams)
+(ia crunch period [absolutely dreadful period])
+(chill learning period [ur teleported back to october])
+(ib exam crunch 😭)
+(relief)
 
 ## Grades
 
@@ -110,6 +119,8 @@ If you are not a textbook person, the following YouTube channels will save your 
 - [Chris Doner](https://www.youtube.com/@donerphysics) (New Syllabus, I personally didn't watch his videos but I know classmates raved about him)
 
 ### SL Math (MHF4UA, MCV4UA)
+
+(i fumbled so hard)
 
 ## Internal Assessments (IAs)
 
