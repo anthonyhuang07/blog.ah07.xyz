@@ -44,7 +44,7 @@ The marks you receive in class from tests or assignments, are in a **raw mark** 
 
 The process of converting raw to converted marks is called **conversions**. Each course has different conversions, and a table of conversions is usually provided by your teacher on their Brightspace. Additionally, I have also made a website that converts these grades for you, so you don't need to find your grade on a complicated table. Check it out here: [ah07.xyz/ibconverter](https://ah07.xyz/ibconverter).
 
-While raw conversions are different across courses, the converted mark level boundaries are the same for every course. The following are the minimum converted percentages per level:
+While raw marks convert to different converted marks depending on the course, the converted mark required to get a certain level is the same across all courses. The following are the minimum converted percentages per level:
 - 0% = Level 1
 - 50% = Level 2
 - 61% = Level 3
@@ -53,7 +53,9 @@ While raw conversions are different across courses, the converted mark level bou
 - 93% = Level 6
 - 97% = Level 7
 
-These percentages are **converted**, not **raw**.
+These percentages are **converted**, not **raw**. Additionally, with raw marks, **never round up.**
+
+The following image is a table of conversions for IB SL Math, as an example of mark conversions.
 
 <img src="/assets/img/images/2024-05-08/slmath.jpeg" width="400px">
 *IB SL Math Conversions (2023-2024)*
