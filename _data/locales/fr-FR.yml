@@ -43,7 +43,7 @@ copyright:
 meta: Propulsé par :PLATFORM avec le thème :THEME
 
 not_found:
-  statment: Désolé, nous avons égaré cette URL ou elle pointe vers quelque chose qui n'existe pas.
+  statement: Désolé, nous avons égaré cette URL ou elle pointe vers quelque chose qui n'existe pas.
 
 notification:
   update_found: Une nouvelle version du contenu est disponible.
@@ -70,8 +70,6 @@ post:
     share_link:
       title: Copier le lien
       succeed: Lien copié avec succès !
-  # pinned prompt of posts list on homepage
-  pin_prompt: Épinglé
 
 # categories page
 categories:
