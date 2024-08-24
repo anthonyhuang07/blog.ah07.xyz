@@ -88,19 +88,26 @@ Finally, your final raw percentage is then matched to the level boundary of the 
 
 ### HL English (ENG3UA)
 
-HLE, do not do other class work in this class or else the teacher will beat you. homework homework homework
+(HLE, do not do other class work in this class or else the teacher will beat you. homework homework homework)
 
 ### HL French (FIF3UB)
 
-easy course, embarrassing i didnt get a 6+ idk i threw so hard
+(easy course, embarrassing i didnt get a 6+ idk i threw so hard)
 
 ### HL Geography (CGF3MB)
 
-easy class, study literally during the week of a test LOL and play games during class (thats what most people did including me and i got a 6 bc i messed up two tests because i didnt pay attention to what i was supposed to know [skill issue])
+(easy class, study literally during the week of a test LOL and play games during class (thats what most people did including me and i got a 6 bc i messed up two tests because i didnt pay attention to what i was supposed to know [skill issue]))
 
 ### SL Physics (SPH3UB, SPH4UB)
 
-IB SL Physics is one of the hardest IB courses you can take at WOSS (alongside HL Math) and they make it extra hard at WOSS. As the Physics syllabus has changed 
+IB SL Physics is one of the hardest IB courses you can take at WOSS (alongside HL Math) and they make it extra hard at WOSS. As the Physics syllabus has changed slightly, the content you learn and the order you learn them in will vary significantly from previous years (including me).
+
+(very self learning course, no teaching)
+
+If you are not a textbook person, the following YouTube channels will save your life in this course. Take your notes based on these videos!!!
+- [OSC](https://www.youtube.com/@OSC1990) (New Syllabus + IB Math and Biology??? 🤯)
+- [Andy Masley](https://www.youtube.com/@AndyMasley) (Old Syllabus but this is the channel I used 99% of the year, actually the GOAT)
+- [Chris Doner](https://www.youtube.com/@donerphysics) (New Syllabus, I personally didn't watch his videos but I know classmates raved about him)
 
 ### SL Math (MHF4UA, MCV4UA)
 
