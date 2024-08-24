@@ -24,7 +24,7 @@ My name is Anthony Huang, and your fellow Grade 11 classmate (or me) may have sh
 
 My courses include HL English (LangLit), HL French, HL Geography, SL Physics, SL Chemistry and SL Math. However, since I was in French Immersion, I got to take a spare or an elective for first year, in which I took Grade 11 Computer Science (ICS3U1, Final 96%). Therefore, one of my SLs are in Grade 12, which I will be doing SL Chemistry in the 2024-2025 school year. If any '08s are reading this, there's a chance I might be in your class!
 
-My first year IB exams have ended, where I took the SL Physics and SL Math exams. I was predicted a 4 and 5 respectively, and got a final score of Level 5 in both courses. For Semester 1 HL French I had a Level 5, and in Geography and English I have a 6 and 5 respectively.
+My first year IB exams have ended, where I took the SL Physics and SL Math exams. I was predicted a 4 and 5 respectively, and got a final score of Level 5 in both courses. For HL French, HL Geography and HL English, I ended the first semesters with a 5, 6, and a 5. (Not IB final)
 
 ## Experience
 
@@ -32,9 +32,9 @@ My first year IB exams have ended, where I took the SL Physics and SL Math exams
 
 I want to preface by saying this: ALP is nothing like IB. You may have thought ALP's rigor prepared you for IB, but in reality, ALP is the same as regular Academic except you have to take Grade 11 Functions in Grade 10. If you noticed, most ALP classes had a mix of ALP and Academic students. So being in ALP was not special. Personally, I think being in ALP was a better experience to get you to know your future IB classmates so you can get along together better, as you have known eachother for two years (or more!) before IB.
 
-IB at WOSS generally has an enrollment of less than 200 students per grade. There are a few that drop IB after first year due to it being a bad experience for them, but that number is less or approximately 10 people. This is a very niche group of students compared to all the Grade 11s in the school, which amounts to a few hundred people.
+IB at WOSS generally has an enrollment of less than 200 students per grade. There are a few that drop IB after first year due to it being a bad experience for them, but I would estimate the number of people to do so to be 10-30 people. This is a very niche group of students compared to all the Grade 11s in the school, which amounts to a few hundred people.
 
-Semester 1 starts chill. You get to know the feel of IB and connect with your niche group of peers. The months of September to November feel normal, and there is generally no pressure.
+Semester 1 starts chill. You get to know the feel of IB and connect with your niche group of peers. The months of September to November feel normal, and there is generally no pressure. The month before Winter Break begins, you begin your [IAs](#internal-assessments-ias), where you will only be expected to finish a proposal.
 
 ## Grades
 
@@ -64,7 +64,7 @@ Wait, weren't we talking about our grades for SL Math? Why is it showing my midt
 
 Because SL Math is split into MHF4UA and MCV4UA (MHF4UA being first semester), you're technically in an MHF4U (Advanced Functions) class. Therefore, your grade for SL Math (thus far) on your **report card** will be your **converted grade**.
 
-However, when your teacher emails you a mark update, it is the **raw** grade instead.
+However, when your teacher emails you a mark update, they send the **raw** grade instead.
 
 ### Predicted Grades
 
@@ -104,11 +104,11 @@ IB SL Physics is one of the hardest IB courses you can take at WOSS (alongside H
 
 ### What is an IA?
 
-Your IA is like the course summative - it spans the entirety of the IB course, even if it lasts 2+ semesters, and is always going to be a written report
+Your IA is like the course summative - it spans the entirety of the IB course, even if it lasts 2+ semesters, and is always going to be a written report. An IA begins with the proposal - an idea of your topic/experiment and how you're going to write, research and execute it. This proposal must be approved by your teacher in order for you to begin. IAs are different across courses. For example, the sciences (Group 4) are all scientific experiments, so you will be to perform an experiment to collect data and write a report.
 
 ### Exceptions - Language Subjects
 
-In language subjects such as English, French and Spanish, you will be doing an IO (Individual Oral) instead of an IA. It is how it sounds, 
+In language subjects such as English, French and Spanish, you will be doing an IO (Individual Oral) instead of an IA. It is how it sounds, being a 1 on 1 oral evaluation with your teacher. (i didnt take sl french/spanish so idk how it goes, im gonna ask some ppl for their experience so i can write this section lol)
 
 ## Exams
 
@@ -118,7 +118,7 @@ First semester exams are your regular Ontario exams, and will follow the same pr
 
 The exam will be weighted among the tests you have done in this semester, as usual, and will be part of your final predicted grade for the IB course, and part of your final mark for the Ontario course.
 
-The only exam that really matters in this period is Math. 
+The only exam that really matters in this period is Math, as it will be weighted the usual 30% of your MHF4U mark. This MHF4U mark is a Grade 12 OSSD grade, so if you're applying to university with your Ontario grades, this might be a grade you'll have to show in your application (especially required for programs like engineering/CS)
 
 ## CAS (Creativity, Activity, Service)
 
