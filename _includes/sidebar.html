@@ -6,22 +6,11 @@
   <div class="profile-wrapper text-center">
     <div id="avatar">
       <a href="{{ '/' | relative_url }}" class="mx-auto">
-        {% if site.avatar != empty and site.avatar %}
-          {% capture avatar_url %}
-            {% if site.avatar contains '://' %}
-              {{ site.avatar }}
-            {% elsif site.img_cdn != empty and site.img_cdn %}
-              {{ site.avatar | prepend: site.img_cdn }}
-            {% else %}
-              {{ site.avatar | relative_url }}
-            {% endif %}
-          {% endcapture %}
           <img src="/assets/img/newProfilePicture.png" alt="avatar">
-        {% endif %}
       </a>
     </div>
 
-    <div class="site-title">
+    <div class="site-title mt-3">
       <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
     </div>
     <div class="site-subtitle font-italic">{{ site.tagline }}</div>
@@ -34,7 +23,7 @@
     <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
       <a href="{{ '/' | relative_url }}" class="nav-link">
         <i class="fa-fw fas fa-home ml-xl-3 mr-xl-3 unloaded"></i>
-        <span>{{ site.data.locales[site.lang].tabs.home | upcase }}</span>
+        <span>{{ site.data.locales[lang].tabs.home | upcase }}</span>
       </a>
     </li>
     <!-- the real tabs -->
@@ -44,7 +33,7 @@
         <i class="fa-fw {{ tab.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
         {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
 
-        <span>{{ site.data.locales[site.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
+        <span>{{ site.data.locales[lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
       </a>
     </li> <!-- .nav-item -->
     {% endfor %}
@@ -64,37 +53,24 @@
     {% endunless %}
 
     {% for entry in site.data.contact %}
-      {% case entry.type %}
-        {% when 'github', 'twitter' %}
-          {%- capture url -%}
-            https://{{ entry.type }}.com/{{ site[entry.type].username }}
-          {%- endcapture -%}
-        {% when 'email' %}
+      {% capture url %}
+        {%- if entry.type == 'github' -%}
+          https://github.com/{{ site.github.username }}
+        {%- elsif entry.type == 'twitter' -%}
+          https://twitter.com/{{ site.twitter.username }}
+        {%- elsif entry.type == 'email' -%}
           {% assign email = site.social.email | split: '@' %}
-          {%- capture url -%}
-            javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
-          {%- endcapture -%}
-        {% when 'rss' %}
-          {% assign url = '/feed.xml' | relative_url %}
-        {% else %}
-          {% assign url = entry.url %}
-      {% endcase %}
+          javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
+        {%- elsif entry.type == 'rss' -%}
+          {{ "/feed.xml" | relative_url }}
+        {%- else -%}
+          {{ entry.url }}
+        {%- endif -%}
+      {% endcapture %}
 
       {% if url %}
       <a href="{{ url }}" aria-label="{{ entry.type }}"
-        {% assign link_types = '' %}
-
-        {% unless entry.noblank %}
-          target="_blank"
-          {% assign link_types = 'noopener noreferrer' %}
-        {% endunless %}
-
-        {% if entry.type == 'mastodon' %}
-          {% assign link_types = link_types | append: ' me' | strip %}
-        {% endif %}
-
-        {% unless link_types == empty %}rel="{{ link_types }}"{% endunless %}>
-
+        {% unless entry.noblank %}target="_blank" rel="noopener"{% endunless %}>
         <i class="{{ entry.icon }}"></i>
       </a>
       {% endif %}
