@@ -2,7 +2,7 @@
 title: Apple WWDC23 Event - My Thoughts
 author: anthonyhuang07
 date: 2023-06-07 10:17:00 -0400
-categories: [Apple Events]
+categories: [Apple Events, Software]
 tags: [hardware, tech, technology, apple, apple watch, iphone, airpods, airpods pro, apple event, ios, ios 17, macbook, macbook air, mac studio, mac, software]
 ---
 

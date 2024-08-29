@@ -2,7 +2,7 @@
 title: How To Use A Wii Balance Board With Geometry Dash
 author: anthonyhuang07
 date: 2022-08-31 18:11:00 -0400
-categories: [Gaming, Geometry Dash]
+categories: [Software, Gaming]
 tags: [gaming, games, geometry dash, wii, wii balance board]
 ---
 
