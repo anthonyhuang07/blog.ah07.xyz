@@ -4,6 +4,7 @@ author: anthonyhuang07
 date: 2024-05-08 10:42:48 -0400
 categories: [Non-Tech, School]
 tags: [ib, school, faq]
+pin: true
 ---
 
 ## Introduction

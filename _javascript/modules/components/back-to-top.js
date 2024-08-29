@@ -4,7 +4,10 @@
 
 export function back2top() {
   $(window).on('scroll', () => {
-    if ($(window).scrollTop() > 50) {
+    if (
+      $(window).scrollTop() > 50 &&
+      $('#sidebar-trigger').css('display') === 'none'
+    ) {
       $('#back-to-top').fadeIn();
     } else {
       $('#back-to-top').fadeOut();
@@ -12,6 +15,12 @@ export function back2top() {
   });
 
   $('#back-to-top').on('click', () => {
-    window.scrollTo(0, 0);
+    $('body,html').animate(
+      {
+        scrollTop: 0
+      },
+      800
+    );
+    return false;
   });
 }

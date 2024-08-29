@@ -10,7 +10,7 @@
   }
 }
 
-%btn-post-nav {
+@mixin btn-post-nav {
   width: 50%;
   position: relative;
   border-color: var(--btn-border-color);
@@ -27,9 +27,6 @@
 }
 
 .preview-img {
-  overflow: hidden;
-  aspect-ratio: 40 / 21;
-
   @extend %rounded;
 
   &:not(.no-bg) {
@@ -39,6 +36,7 @@
   }
 
   img {
+    aspect-ratio: 40 / 21;
     -o-object-fit: cover;
     object-fit: cover;
 
@@ -155,16 +153,6 @@ h1 + .post-meta {
 
 .post-tags {
   line-height: 2rem;
-
-  .post-tag {
-    background: var(--tag-bg);
-
-    &:hover {
-      @extend %link-hover;
-      @extend %tag-hover;
-      @extend %no-bottom-border;
-    }
-  }
 }
 
 .post-navigation {
@@ -172,25 +160,27 @@ h1 + .post-meta {
   padding-bottom: 4rem;
 
   .btn {
-    @extend %btn-post-nav;
+    @include btn-post-nav;
 
-    &:not(:hover) {
-      color: var(--link-color);
-    }
+    color: var(--link-color);
 
     &:hover {
-      &:not(.disabled)::before {
-        color: whitesmoke;
-      }
+      background: #2a408e;
+      color: #ffffff;
+      border-color: #2a408e;
     }
 
     &.disabled {
-      @extend %btn-post-nav;
+      @include btn-post-nav;
 
       pointer-events: auto;
       cursor: not-allowed;
       background: none;
       color: gray;
+
+      &:hover {
+        border-color: none;
+      }
     }
 
     &.btn-outline-primary.disabled:focus {
@@ -205,12 +195,14 @@ h1 + .post-meta {
     }
 
     &:first-child {
-      border-radius: $base-radius 0 0 $base-radius;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
       left: 0.5px;
     }
 
     &:last-child {
-      border-radius: 0 $base-radius $base-radius 0;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
       right: 0.5px;
     }
   }
@@ -222,15 +214,6 @@ h1 + .post-meta {
     white-space: normal;
   }
 } /* .post-navigation */
-
-@media (hover: hover) {
-  .post-navigation {
-    .btn,
-    .btn::before {
-      transition: all 0.35s ease-in-out;
-    }
-  }
-}
 
 @-webkit-keyframes fade-up {
   from {
@@ -347,10 +330,24 @@ h1 + .post-meta {
     -webkit-box-orient: vertical;
   }
 
+  a:hover {
+    text-decoration: none;
+  }
+
   .card {
-    h4 {
+    border-color: var(--card-border-color);
+    background-color: var(--card-bg);
+    box-shadow: 0 0 5px 0 var(--card-box-shadow);
+    transition: all 0.3s ease-in-out;
+
+    h3 {
       @extend %text-color;
-      @extend %text-clip;
+    }
+
+    &:hover {
+      -webkit-transform: translate3d(0, -3px, 0);
+      transform: translate3d(0, -3px, 0);
+      box-shadow: 0 10px 15px -4px rgba(0, 0, 0, 0.15);
     }
   }
 }

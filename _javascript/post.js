@@ -1,9 +1,9 @@
 import { basic, initSidebar, initTopbar } from './modules/layouts';
 import {
-  imgLazy,
-  imgPopup,
+  imgExtra,
   initLocaleDatetime,
   initClipboard,
+  smoothScroll,
   initPageviews,
   toc
 } from './modules/plugins';
@@ -11,9 +11,9 @@ import {
 basic();
 initSidebar();
 initTopbar();
-imgLazy();
-imgPopup();
+imgExtra();
 initLocaleDatetime();
 initClipboard();
 toc();
+smoothScroll(); // must be called after toc is created
 initPageviews();

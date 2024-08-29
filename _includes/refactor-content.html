@@ -45,8 +45,9 @@
 
 <!-- images -->
 
-{% if _content contains '<img' %}
-  {% assign IMG_TAG = '<img ' %}
+{% assign IMG_TAG = '<img ' %}
+
+{% if _content contains IMG_TAG %}
   {% assign _img_content = nil %}
   {% assign _img_snippets = _content | split: IMG_TAG %}
 
@@ -93,9 +94,9 @@
         {% continue %}
       {% endunless %}
 
-      {% assign _pair = _attr | split: '="' %}
+      {% assign _pair = _attr | remove: '"' | split: '=' %}
       {% capture _key %}{{ _pair | first }}{% endcapture %}
-      {% capture _value %}{{ _pair | last | remove: '"' }}{% endcapture %}
+      {% capture _value %}{{ _pair | last }}{% endcapture %}
 
       {% case _key %}
         {% when 'width' %}
@@ -109,6 +110,7 @@
         {% when 'class' %}
           {% assign _class = _value %}
       {% endcase %}
+
     {% endfor %}
 
     <!-- take out classes -->
@@ -160,39 +162,28 @@
     <!-- Bypass the HTML-proofer test -->
     {% assign _left = _left | append: ' data-proofer-ignore' %}
 
-    {% if page.layout == 'post' %}
-      <!-- make sure the `<img>` is wrapped by `<a>` -->
-      {% assign _parent = _right | slice: 1, 4 %}
+    <!-- make sure the `<img>` is wrapped by `<a>` -->
+    {% assign _parent = _right | slice: 1, 4 %}
 
-      {% if _parent == '</a>' %}
-        <!-- add class to exist <a> tag -->
-        {% assign _size = _img_content | size | minus: 1 %}
-        {% capture _class %}
-          class="img-link{% unless _lqip %} shimmer{% endunless %}"
-        {% endcapture %}
-        {% assign _img_content = _img_content | slice: 0, _size | append: _class | append: '>'  %}
-      {% else %}
-        <!-- create the image wrapper -->
-        {%- capture _wrapper_start -%}
-          <a href="{{ _final_src | default: _src  }}" class="popup img-link {{ _class }}">
-        {%- endcapture -%}
-        {% assign _img_content = _img_content | append: _wrapper_start %}
-        {% assign _right = _right | prepend: '></a' %}
-      {% endif %}
+    {% if _parent == '</a>' %}
+      <!-- add class to exist <a> tag -->
+      {% assign _size = _img_content | size | minus: 1 %}
+      {% capture _class %}
+        class="img-link{% unless _lqip %} shimmer{% endunless %}"
+      {% endcapture %}
+      {% assign _img_content = _img_content | slice: 0, _size | append: _class | append: '>'  %}
 
-    {% endif %}
-
-    {% if page.layout == 'home' %}
+    {% else %}
       <!-- create the image wrapper -->
       {%- capture _wrapper_start -%}
-        <div class="preview-img {{ _class | strip }}">
+        <a href="{{ _final_src | default: _src  }}" class="popup img-link {{ _class }}">
       {%- endcapture -%}
       {% assign _img_content = _img_content | append: _wrapper_start %}
-      {% assign _right = _right | prepend: '></div' %}
+      {% assign _right = _right | prepend: '></a' %}
     {% endif %}
 
     <!-- combine -->
-    {% assign _img_content = _img_content | append: debug | append: IMG_TAG | append: _left | append: _right %}
+    {% assign _img_content = _img_content | append: IMG_TAG | append: _left | append: _right %}
 
   {% endfor %}
 
@@ -219,11 +210,11 @@
 
       {% if _left contains 'file="' %}
         {% assign _label_text = _left | split: 'file="' | last | split: '"' | first %}
-        {% assign _label_icon = 'far fa-file-code fa-fw' %}
+        {% assign _label_icon = 'far fa-file-code' %}
       {% else %}
         {% assign _lang = _left | split: 'language-' | last | split: ' ' | first %}
         {% capture _label_text %}{% include language-alias.html language=_lang %}{% endcapture %}
-        {% assign _label_icon = 'fas fa-code fa-fw small' %}
+        {% assign _label_icon = 'fas fa-code small' %}
       {% endif %}
 
       {% capture _label %}
@@ -234,7 +225,7 @@
           | append: '<div class="code-header">'
           | append: _label
           | append: '<button aria-label="copy" data-title-succeed="'
-          | append: site.data.locales[include.lang].post.button.copy_code.succeed
+          | append: site.data.locales[site.lang].post.button.copy_code.succeed
           | append: '"><i class="far fa-clipboard"></i></button></div>'
           | append: '<div class="highlight"><code>'
       %}
@@ -271,7 +262,7 @@
 
       {% assign left = snippet | split: mark_end | first %}
       {% assign right = snippet | slice: left.size, snippet.size %}
-      {% assign left = left | replace_first: '">', '"><span class="me-2">' | append: '</span>' %}
+      {% assign left = left | replace_first: '">', '"><span class="mr-2">' | append: '</span>' %}
 
       {% assign _new_content = _new_content | append: mark_start
           | append: left | append: anchor | append: right
@@ -287,4 +278,5 @@
 {% assign _content = _heading_content %}
 
 <!-- return -->
+
 {{ _content }}
