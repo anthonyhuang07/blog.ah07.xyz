@@ -8,15 +8,18 @@ theme: jekyll-theme-chirpy
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
+# Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
+prefer_datetime_locale:
+
+# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/Toronto
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Anthony's Blog # the main title
+title: Anthony's Blog                          # the main title
 
-tagline: Anthony Huang's personal blog. # it will display as the subtitle
+tagline: Anthony Huang's personal blog.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Anthony Huang's personal blog - mostly about technology and academics!
@@ -34,41 +37,20 @@ social:
   email: fhdhgngn@ah07.xyz             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://ah07.xyz/      # change to your twitter homepage
+    - https://ah07.xyz/contact      # change to your twitter homepage
     - https://github.com/anthonyhuang07       # change to your github homepage
 
-# Site Verification Settings
-webmaster_verifications:
-  google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
-  alexa: # fill in your Alexa verification code
-  yandex: # fill in your Yandex verification code
-  baidu: # fill in your Baidu verification code
-  facebook: # fill in your Facebook verification code
+google_site_verification:               # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-# Web Analytics Settings
-analytics:
-  google:
-    id: # fill in your Google Analytics ID
-  goatcounter:
-    id: # fill in your GoatCounter ID
-  umami:
-    id: # fill in your Umami ID
-    domain: # fill in your Umami domain
-  matomo:
-    id: # fill in your Matomo ID
-    domain: # fill in your Matomo domain
-  cloudflare:
-    id: # fill in your Cloudflare Web Analytics token
-  fathom:
-    id: # fill in your Fathom Site ID
-
-# Page views settings
-pageviews:
-  provider: # now only supports 'goatcounter'
+google_analytics:
+  id:                 # fill in your Google Analytics ID
+  # Google Analytics pageviews report settings
+  pv:
+    proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
+    cache_path:       # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
 #
@@ -78,26 +60,22 @@ pageviews:
 #
 # Available options:
 #
-#     light — Use the light color scheme
-#     dark — Use the dark color scheme
+#     light  - Use the light color scheme
+#     dark   - Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode:   # [light|dark]
 
-# The CDN endpoint for media resources.
+# The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
-# will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
+# will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "./assets/img/newProfilePicture.png"
+avatar: ''
 
-# The URL of the site-wide social preview image used in SEO `og:image` meta tag.
-# It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "./assets/img/newProfilePicture.png" # string, local or CORS resources
-
-# boolean type, the global switch for TOC in posts.
+# boolean type, the global switch for ToC in posts.
 toc: true
 
 comments:
@@ -122,32 +100,22 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: # boolean, keep empty means false
+    enabled:      # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development | production]
+    env:          # [development|production]
 
 pwa:
-  enabled: true # The option for PWA feature (installable)
-  cache:
-    enabled: true # The option for PWA offline cache
-    # Paths defined here will be excluded from the PWA cache.
-    # Usually its value is the `baseurl` of another website that
-    # shares the same domain name as the current website.
-    deny_paths:
-      # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+  enabled: true   # the option for PWA feature
 
 paginate: 10
 
-# The base URL of your site
-baseurl: ""
-
+# region
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
-  footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
-  syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
+  syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight
     # default_lang: console
     span:
@@ -160,18 +128,15 @@ collections:
   tabs:
     output: true
     sort_by: order
-  app:
-    output: true
-    permalink: /:name
 
 defaults:
   - scope:
-      path: "" # An empty string here means all files in the project
+      path: ''          # An empty string here means all files in the project
       type: posts
     values:
       layout: post
-      comments: true # Enable comments in posts.
-      toc: true # Display TOC column in posts.
+      comments: true    # Enable comments in posts.
+      toc: true         # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
@@ -180,11 +145,19 @@ defaults:
     values:
       comments: false
   - scope:
-      path: ""
-      type: tabs # see `site.collections`
+      path: ''
+      type: tabs             # see `site.collections`
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: assets/img/favicons
+    values:
+      swcache: true
+  - scope:
+      path: assets/js/dist
+    values:
+      swcache: true
 
 sass:
   style: compressed
@@ -199,13 +172,14 @@ compress_html:
     envs: [development]
 
 exclude:
-  - "*.gem"
-  - "*.gemspec"
-  - docs
+  - '*.gem'
+  - '*.gemspec'
   - tools
   - README.md
+  - CHANGELOG.md
   - LICENSE
-  - "*.config.js"
+  - gulpfile.js
+  - node_modules
   - package*.json
 
 jekyll-archives:
@@ -216,3 +190,4 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+# endregion

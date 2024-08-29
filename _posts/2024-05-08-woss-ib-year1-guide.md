@@ -122,8 +122,6 @@ If you are not a textbook person, the following YouTube channels will save your 
 - [Andy Masley](https://www.youtube.com/@AndyMasley) (Old Syllabus but this is the channel I used 99% of the year, actually the GOAT)
 - [Chris Doner](https://www.youtube.com/@donerphysics) (New Syllabus, I personally didn't watch his videos but I know classmates raved about him)
 
-test
-
 ### SL Math (MHF4UA, MCV4UA)
 
 (i fumbled so hard)

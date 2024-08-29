@@ -1,5 +1,5 @@
-# blog.ah07.xyz
+## blog.ah07.xyz
 
-Anthony Huang's personal blog.
+The blog for ah07.xyz
 
 https://blog.ah07.xyz
