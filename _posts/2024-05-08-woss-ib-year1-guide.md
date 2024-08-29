@@ -115,12 +115,18 @@ Finally, your final raw percentage is then matched to the level boundary of the 
 
 IB SL Physics is one of the hardest IB courses you can take at WOSS (alongside HL Math) and they make it extra hard at WOSS. As the Physics syllabus has changed slightly, the content you learn and the order you learn them in will vary significantly from previous years (including me).
 
-(very self learning course, no teaching)
+This course is nearly entirely dependent on self-study. The teachers (especially Mr. Paterson) will NOT have daily lessons. I had Mr. Paterson for semester 1, and he would only have lessons like once a week just generally talking about the topic we're about to learn, not going in-depth with it. He provides a brief introduction, and expects you to learn everything else.
 
-If you are not a textbook person, the following YouTube channels will save your life in this course. Take your notes based on these videos!!!
-- [OSC](https://www.youtube.com/@OSC1990) (New Syllabus + IB Math and Biology??? 🤯)
+This may seem frustrating at first, and trust me, me and my parents were terribly confused. But this method works, and really improves your self-learning capabilities, especially in such a hard course like IB Physics. You will be finding your own materials, seeking help from your fellow students, and navigating through this mess with your own knowledge and experiences.
+
+The most well known resource for self-study is, of course, the IB Physics Textbook (provided by your teachers IRL and on Brightspace). But if you are not a textbook person, the following YouTube channels will save your life in this course. Take your notes based on these videos!!!
+- [OSC](https://www.youtube.com/@OSC1990) (New Syllabus + IB Math and Biology??? 🤯 I found this channel during my IB Exam studies and he really saved my butt.)
 - [Andy Masley](https://www.youtube.com/@AndyMasley) (Old Syllabus but this is the channel I used 99% of the year, actually the GOAT)
 - [Chris Doner](https://www.youtube.com/@donerphysics) (New Syllabus, I personally didn't watch his videos but I know classmates raved about him)
+
+(teachers: paterson, omeara, janssen, if you have paterson especially for sem2 ur cooked. paterson does spirals which is stupid and im gonna explain it soon)
+
+<a href="/assets/img/images/2024-05-08/Spirals1,2a,2b(2023).pdf" target="_blank">Past Spirals</a>
 
 ### SL Math (MHF4UA, MCV4UA)
 
