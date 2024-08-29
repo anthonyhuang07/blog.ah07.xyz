@@ -22,7 +22,7 @@ description: >-                        # used by seo meta and the atom feed
   Anthony Huang's personal blog - mostly about technology and academics!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://anthonyhuang07.github.io'
+url: 'https://blog.ah07.xyz'
 
 github:
   username: anthonyhuang07            # change to your github username
@@ -140,7 +140,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/blog.ah07.xyz"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
