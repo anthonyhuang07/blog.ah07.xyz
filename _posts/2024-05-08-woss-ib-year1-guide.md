@@ -107,6 +107,8 @@ Finally, your final raw percentage is then matched to the level boundary of the 
 
 This course is honestly nothing to worry about. You'll have regular writing, reading, listening and oral evaluations, and that's about it. This class is fun, most of the time we just goof around in it. If you keep up at a regular pace, a Level 7 is easy. You don't need to "grind" this class.
 
+The books we read were Le Bourgeois gentilhomme by Molière & Art by Yasmina Reza. The writing and oral evaluations will require knowledge of the books. Personally, I read Le Bourgeois gentilhomme in English and never read Art at all, and did completely fine (Level 6s) on the evaluations involving the books. So if you actually read the books, a Level 7 is easily achievable.
+
 ### HL Geography (CGF3MB)
 
 (easy class, study literally during the week of a test LOL and play games during class (thats what most people did including me and i got a 6 bc i messed up two tests because i didnt pay attention to what i was supposed to know [skill issue]))
