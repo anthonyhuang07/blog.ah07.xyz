@@ -145,6 +145,14 @@ A Spiral is technically a unit, but it is more commonly referred to as the name 
 > Spiral 3 - Level 3
 {: .prompt-info}
 
+#### Mr. O'Meara
+
+#### Ms. Janssen
+
+Quoting my friend: "Janssen is the best physics teacher hands down. Her style of teaching is balanced so that you have enough time to process the material and learn it, but not enough that you can just skimp on studying. She is great at introducing the IB self-study archetype."
+
+I did not have Janssen both semesters but I have heard great things about her teaching - as she is pretty much the only IB Physics teacher that really teaches lessons. She also marks her IAs the highest, I've heard.
+
 ### SL Math (MHF4UA, MCV4UA)
 
 (i fumbled so hard) (these marks important for uni so DONT FUMBLE LIKE ME, I DIDNT KNOW AT THE TIME (ATLEAST FOR MHF4U...))
