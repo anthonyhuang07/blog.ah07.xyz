@@ -115,9 +115,7 @@ Finally, your final raw percentage is then matched to the level boundary of the 
 
 IB SL Physics is one of the hardest IB courses you can take at WOSS (alongside HL Math) and they make it extra hard at WOSS. As the Physics syllabus has changed slightly, the content you learn and the order you learn them in will vary significantly from previous years (including me).
 
-This course is nearly entirely dependent on self-study. The teachers (especially Mr. Paterson) will NOT have daily lessons. I had Mr. Paterson for semester 1, and he would only have lessons like once a week just generally talking about the topic we're about to learn, not going in-depth with it. He provides a brief introduction, and expects you to learn everything else.
-
-This may seem frustrating at first, and trust me, me and my parents were terribly confused. But this method works, and really improves your self-learning capabilities, especially in such a hard course like IB Physics. You will be finding your own materials, seeking help from your fellow students, and navigating through this mess with your own knowledge and experiences.
+This course is nearly entirely dependent on self-study. The amount of lessons you get is dependent on the teacher, which I will talk about later. You will be finding your own materials, seeking help from your fellow students, and navigating through this mess with your own knowledge and experiences.
 
 The most well known resource for self-study is, of course, the IB Physics Textbook (provided by your teachers IRL and on Brightspace). But if you are not a textbook person, the following YouTube channels will save your life in this course. Take your notes based on these videos!!!
 - [OSC](https://www.youtube.com/@OSC1990) (New Syllabus + IB Math and Biology??? 🤯 I found this channel during my IB Exam studies and he really saved my butt.)
@@ -126,18 +124,30 @@ The most well known resource for self-study is, of course, the IB Physics Textbo
 
 There are three IB Physics teachers - Mr. Paterson, Mr. O'Meara and Ms. Janssen. Mr. Paterson is the most controversial one, and I had him first semester, and we'll talk about him.
 
-Mr. Paterson runs his first semester off a Spiral system. Instead of going chronologically in order of the syllabus and having regular quizzes and tests, units are replaced with Spirals™, ONLY in Mr. Paterson's class. As units are chronological, you learn them in the order of the syllabus, every Spiral (unit) has material from every topic in the syllabus. In the updated syllabus, you guys will have 5 topics, Topics A-E. For example, in Spiral 1, you will have the first one or two lessons in Topics A-D. In Spiral 2a, you will have the following lessons in those Topics. If you're wondering why I'm omitting Topic E, it's because it is usually taught in Semester 2, for the final test, Spiral 4 (aka. the final test before the IB exam that determines your predicted grade, but even non-Paterson classes called that test Spiral 4).
+#### Mr. Paterson
 
-<a href="/assets/img/images/2024-05-08/Spirals1,2a,2b(2023).pdf" target="_blank">Past Spirals</a>
+For teaching, Mr. Paterson will NOT have daily lessons. I had Mr. Paterson for semester 1, and he would only have lessons like once a week just generally talking about the topic we're about to learn, not going in-depth with it. He provides a brief introduction, and expects you to learn everything else. This may seem frustrating at first, and trust me, me and my parents were terribly confused. But it works out, and many people actually thank him for it (including me). He said so himself!
+
+As for the course itself, Mr. Paterson runs his first semester off a Spiral system. Instead of having normal units, they are replaced with Paterson's signature **Spirals**™, ONLY in Mr. Paterson's class. With units, they are chronological, you learn them in the order of the syllabus. But for Spirals, **every Spiral (unit) has some material from every topic in the syllabus**. In the updated syllabus, you guys will have 5 topics, Topics A-E. For example, in Spiral 1, you will have the first one or two lessons in Topics A-D. In Spiral 2a, you will have the following lessons in those Topics. If you're wondering why I'm omitting Topic E, it's because it is usually taught in Semester 2, for the final test, Spiral 4 (aka. the final test before the IB exam that determines your predicted grade, but even non-Paterson classes called that test Spiral 4).
 
 > For info about the updated syllabus (as 07s and earlier did the old syllabus, we are unclear about the changeso ourselves) please read the official article from the IBO.
 > 
 > [https://www.ibo.org/university-admission/latest-curriculum-updates/physics-updates/](https://www.ibo.org/university-admission/latest-curriculum-updates/physics-updates/)
 {: .prompt-info}
 
+A Spiral is technically a unit, but it is more commonly referred to as the name of the test. For me, we had Spiral 1, 2a, 2b and Spiral 3. If you want to have a peek at the Spirals I had to deal with, you can find them <a href="/assets/img/images/2024-05-08/Spirals1,2a,2b(2023).pdf" target="_blank">right here!</a> (Tip: they are extremely challenging)
+
+> If you're curious, my marks for each of the semester 1 Spirals were as follows:
+>
+> Spiral 1 - Level 3<br>
+> Spiral 2a - Level 1 (Fail)<br>
+> Spiral 2b - Level 2<br>
+> Spiral 3 - Level 3
+{: .prompt-info}
+
 ### SL Math (MHF4UA, MCV4UA)
 
-(i fumbled so hard)
+(i fumbled so hard) (these marks important for uni so DONT FUMBLE LIKE ME, I DIDNT KNOW AT THE TIME (ATLEAST FOR MHF4U...))
 
 ## Internal Assessments (IAs)
 
