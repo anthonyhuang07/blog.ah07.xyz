@@ -113,7 +113,7 @@ Finally, your final raw percentage is then matched to the level boundary of the 
 
 ### SL Physics (SPH3UB, SPH4UB)
 
-IB SL Physics is one of the hardest IB courses you can take at WOSS (alongside HL Math) and they make it extra hard at WOSS. As the Physics syllabus has changed slightly, the content you learn and the order you learn them in will vary significantly from previous years (including me).
+IB SL Physics is one of the hardest IB courses you can take at WOSS (alongside HL Math) and they make it extra hard at WOSS. As the Physics syllabus has been updated for 2024 and onwards, the content you learn and the order you learn them in will vary significantly from previous years (including me).
 
 This course is nearly entirely dependent on self-study. The amount of lessons you get is dependent on the teacher, which I will talk about later. You will be finding your own materials, seeking help from your fellow students, and navigating through this mess with your own knowledge and experiences.
 
@@ -130,7 +130,7 @@ For teaching, Mr. Paterson will NOT have daily lessons. I had Mr. Paterson for s
 
 As for the course itself, Mr. Paterson runs his first semester off a Spiral system. Instead of having normal units, they are replaced with Paterson's signature **Spirals**™, ONLY in Mr. Paterson's class. With units, they are chronological, you learn them in the order of the syllabus. But for Spirals, **every Spiral (unit) has some material from every topic in the syllabus**. In the updated syllabus, you guys will have 5 topics, Topics A-E. For example, in Spiral 1, you will have the first one or two lessons in Topics A-D. In Spiral 2a, you will have the following lessons in those Topics. If you're wondering why I'm omitting Topic E, it's because it is usually taught in Semester 2, for the final test, Spiral 4 (aka. the final test before the IB exam that determines your predicted grade, but even non-Paterson classes called that test Spiral 4).
 
-> For info about the updated syllabus (as 07s and earlier did the old syllabus, we are unclear about the changeso ourselves) please read the official article from the IBO.
+> For info about the updated syllabus please read the official article from the IBO.
 > 
 > [https://www.ibo.org/university-admission/latest-curriculum-updates/physics-updates/](https://www.ibo.org/university-admission/latest-curriculum-updates/physics-updates/)
 {: .prompt-info}
