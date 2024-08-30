@@ -18,7 +18,7 @@ tags: [ib, school, faq]
 
 ### Who is this guide for?
 
-This post was written to help the future IB students of WOSS (other IB schools may also broadly use this guide) guide their way through the mess that is called the International Baccalaureate. This guide will be very long (check the read time at the article header), so if you only want the specific information of a topic you are confused about, check out the **Contents** tab on the right side of the page.
+This post was written to help the future IB students of WOSS (other IB schools may also broadly use this guide) guide their way through the mess that is called the International Baccalaureate Diploma Programme. This guide will be very long (check the read time at the article header), so if you only want the specific information of a topic you are confused about, check out the **Contents** tab on the right side of the page.
 
 If you have a question that the guide does not answer, you can leave a comment below (you need a GitHub account) or you can DM me on Discord at **@fhdhgngn**.
 
@@ -152,8 +152,18 @@ The exam will be weighted among the tests you have done in this semester, as usu
 
 The only exam that really matters in this period is Math, as it will be weighted the usual 30% of your MHF4U mark. This MHF4U mark is a Grade 12 OSSD grade, so if you're applying to university with your Ontario grades, this might be a grade you'll have to show in your application (especially required for programs like engineering/CS)
 
-## CAS (Creativity, Activity, Service)
+## DP Core (CAS, EE, TOK)
 
-### What is CAS?
+### ManageBac
 
-CAS is the IB equivalent of your OSSD volunteer hours. However, in addition to volunteering, you're also given the option to do creative activities (e.g. Piano lessons, going to a school club, etc.) and physical activities (e.g. Going to the gym, weekly house league soccer, etc.). Respectively, these activities go under the Creativity and Activity sections of CAS. For Service, it could be volunteering or doing anything that benefits a community.
+### GWL3OB - Designing your Future
+
+
+
+### CAS (Creativity, Activity, Service)
+
+A full CAS guide can be found here: [https://whiteoaks.managebac.com/guide/cas/](https://whiteoaks.managebac.com/guide/cas/)
+
+CAS is the IB equivalent of your OSSD volunteer hours. However, in addition to volunteering, you're also given the option to do creative activities (e.g. Piano lessons, going to a school club, etc.) and physical activities (e.g. Going to the gym, weekly house league soccer, etc.). Respectively, these activities go under the Creativity and Activity sections of CAS. For Service, it could be volunteering or doing anything that benefits a community (school community also counts!).
+
+Note that CAS hours and your 40 OSSD Volunteer hours are **completely different entities and are not interchangeable in the slightest**. You cannot use a volunteering experience for both CAS and your OSSD hours, only one. Completing your 40 OSSD hours will allow you to graduate with your OSSD (Ontario) Diploma, while completing CAS will allow you to graduate with your IB Diploma.
