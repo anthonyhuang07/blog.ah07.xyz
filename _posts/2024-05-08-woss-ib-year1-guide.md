@@ -124,9 +124,16 @@ The most well known resource for self-study is, of course, the IB Physics Textbo
 - [Andy Masley](https://www.youtube.com/@AndyMasley) (Old Syllabus but this is the channel I used 99% of the year, actually the GOAT)
 - [Chris Doner](https://www.youtube.com/@donerphysics) (New Syllabus, I personally didn't watch his videos but I know classmates raved about him)
 
-(teachers: paterson, omeara, janssen, if you have paterson especially for sem2 ur cooked. paterson does spirals which is stupid and im gonna explain it soon)
+There are three IB Physics teachers - Mr. Paterson, Mr. O'Meara and Ms. Janssen. Mr. Paterson is the most controversial one, and I had him first semester, and we'll talk about him.
+
+Mr. Paterson runs his first semester off a Spiral system. Instead of going chronologically in order of the syllabus and having regular quizzes and tests, units are replaced with Spirals™, ONLY in Mr. Paterson's class. As units are chronological, you learn them in the order of the syllabus, every Spiral (unit) has material from every topic in the syllabus. In the updated syllabus, you guys will have 5 topics, Topics A-E. For example, in Spiral 1, you will have the first one or two lessons in Topics A-D. In Spiral 2a, you will have the following lessons in those Topics. If you're wondering why I'm omitting Topic E, it's because it is usually taught in Semester 2, for the final test, Spiral 4 (aka. the final test before the IB exam that determines your predicted grade, but even non-Paterson classes called that test Spiral 4).
 
 <a href="/assets/img/images/2024-05-08/Spirals1,2a,2b(2023).pdf" target="_blank">Past Spirals</a>
+
+> For info about the updated syllabus (as 07s and earlier did the old syllabus, we are unclear about the changeso ourselves) please read the official article from the IBO.
+> 
+> [https://www.ibo.org/university-admission/latest-curriculum-updates/physics-updates/](https://www.ibo.org/university-admission/latest-curriculum-updates/physics-updates/)
+{: .prompt-info}
 
 ### SL Math (MHF4UA, MCV4UA)
 
@@ -158,7 +165,7 @@ The only exam that really matters in this period is Math, as it will be weighted
 
 ### GWL3OB - Designing your Future
 
-
+GWL3OB - commonly known as just GWL, is a course used to guide you through your first year of IB. It happens every wednesday, during your break. (There is **no period 6**, the course is during your break.)
 
 ### CAS (Creativity, Activity, Service)
 
