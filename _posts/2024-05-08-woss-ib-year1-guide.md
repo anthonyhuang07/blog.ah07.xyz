@@ -105,7 +105,7 @@ Finally, your final raw percentage is then matched to the level boundary of the 
 
 ### HL French (FIF3UB)
 
-(easy course, embarrassing i didnt get a 6+ idk i threw so hard)
+This course is honestly nothing to worry about. You'll have regular writing, reading, listening and oral evaluations, and that's about it. This class is fun, most of the time we just goof around in it. If you keep up at a regular pace, a Level 7 is easy. You don't need to "grind" this class.
 
 ### HL Geography (CGF3MB)
 
@@ -137,13 +137,7 @@ As for the course itself, Mr. Paterson runs his first semester off a Spiral syst
 
 A Spiral is technically a unit, but it is more commonly referred to as the name of the test. For me, we had Spiral 1, 2a, 2b and Spiral 3. If you want to have a peek at the Spirals I had to deal with, you can find them <a href="/assets/img/images/2024-05-08/Spirals1,2a,2b(2023).pdf" target="_blank">right here!</a> (Tip: they are extremely challenging)
 
-> If you're curious, my marks for each of the semester 1 Spirals were as follows:
->
-> Spiral 1 - Level 3<br>
-> Spiral 2a - Level 1 (Fail)<br>
-> Spiral 2b - Level 2<br>
-> Spiral 3 - Level 3
-{: .prompt-info}
+It is really challenging to get a high score with Spirals, especially on Spiral 1. Most of the time, nobody gets a Level 7. They are designed that way! The general goal for Spiral 1 is a Level 4 - which is a great score to start. Then, from there, you need to steadily climb up until you reach Level 7 in the last tests and final IB exam.
 
 #### Mr. O'Meara
 
