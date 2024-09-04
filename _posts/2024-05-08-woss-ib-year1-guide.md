@@ -192,3 +192,9 @@ A full CAS guide can be found here: [https://whiteoaks.managebac.com/guide/cas/]
 CAS is the IB equivalent of your OSSD volunteer hours. However, in addition to volunteering, you're also given the option to do creative activities (e.g. Piano lessons, going to a school club, etc.) and physical activities (e.g. Going to the gym, weekly house league soccer, etc.). Respectively, these activities go under the Creativity and Activity sections of CAS. For Service, it could be volunteering or doing anything that benefits a community (school community also counts!).
 
 Note that CAS hours and your 40 OSSD Volunteer hours are **completely different entities and are not interchangeable in the slightest**. You cannot use a volunteering experience for both CAS and your OSSD hours, only one. Completing your 40 OSSD hours will allow you to graduate with your OSSD (Ontario) Diploma, while completing CAS will allow you to graduate with your IB Diploma.
+
+### Extended Essay (EE)
+
+A full EE guide can be found here: [https://whiteoaks.managebac.com/guide/extended-essay](https://whiteoaks.managebac.com/guide/extended-essay)
+
+In Year 1, you aren't expected to write your EE, however you're expected to find a subject, topic, and mentor.
