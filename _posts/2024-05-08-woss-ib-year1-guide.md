@@ -20,6 +20,8 @@ tags: [ib, school, faq]
 
 This post was written to help the future IB students of WOSS (other IB schools may also broadly use this guide) guide their way through the mess that is called the International Baccalaureate Diploma Programme. This guide will be very long (check the read time at the article header), so if you only want the specific information of a topic you are confused about, check out the **Contents** tab on the right side of the page.
 
+By Year 2, I'm sure you'll be able to guide yourself through the next generation of mess. Use this guide to straighten yourself out for Year 1, and by Year 2 you should be able to manage yourself. I won't be writing a Year 2 guide.
+
 If you have a question that the guide does not answer, you can leave a comment below (you need a GitHub account) or you can DM me on Discord at **@fhdhgngn**.
 
 ### Who are you?
@@ -103,6 +105,10 @@ Finally, your final raw percentage is then matched to the level boundary of the 
 
 (HLE, do not do other class work in this class or else the teacher will beat you. homework homework homework)
 
+### SL French (FSF3UB, FSF4UB)
+
+(according to sl frenchers they say that its trash bc nobody knows french in the first place and its IB LOL)
+
 ### HL French (FIF3UB)
 
 This course is honestly nothing to worry about. You'll have regular writing, reading, listening and oral evaluations, and that's about it. This class is fun, most of the time we just goof around in it. If you keep up at a regular pace, a Level 7 is easy. You don't need to "grind" this class.
@@ -112,6 +118,22 @@ The books we read were Le Bourgeois gentilhomme by Molière & Art by Yasmina Rez
 ### HL Geography (CGF3MB)
 
 (easy class, study literally during the week of a test LOL and play games during class (thats what most people did including me and i got a 6 bc i messed up two tests because i didnt pay attention to what i was supposed to know [skill issue]))
+
+### SL Chemistry (SCH3UA, SCH4UA)
+
+(idk apparently its chill, im doing it rn lol)
+
+### HL Chemistry (SCH3UB)
+
+(not that hard)
+
+### SL Biology (SBI3UA, SBI4UA)
+
+(easy? bro its biology)
+
+### HL Biology (SBI3UB)
+
+(easy? bro its biology)
 
 ### SL Physics (SPH3UB, SPH4UB)
 
@@ -152,6 +174,10 @@ I did not have Janssen both semesters but I have heard great things about her te
 ### SL Math (MHF4UA, MCV4UA)
 
 (i fumbled so hard) (these marks important for uni so DONT FUMBLE LIKE ME, I DIDNT KNOW AT THE TIME (ATLEAST FOR MHF4U...))
+
+### HL Math (MHF4UB)
+
+(apparently it's hell. i mean it rivals sl physics in difficulty for a reason. so glhf)
 
 ## Internal Assessments (IAs)
 
