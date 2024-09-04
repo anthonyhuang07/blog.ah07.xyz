@@ -177,9 +177,13 @@ The only exam that really matters in this period is Math, as it will be weighted
 
 ### ManageBac
 
+ManageBac is your primary IB Hub, where you'll get IB updates from your counsellor, where you'll log your CAS hours, EE work and signing up for your exams.
+
 ### GWL3OB - Designing your Future
 
 GWL3OB - commonly known as just GWL, is a course used to guide you through your first year of IB. It happens every wednesday, during your break. (There is **no period 6**, the course is during your break.)
+
+You shouldn't be spending a lot of time on GWL, it is not worth it. The point of the "course" is to guide you through IB, which is very useful for the times when you need to learn about CAS, important IB events and Exams, however the majority of the coursework is useless reflections that are a waste of your time. Use most of your time on your primary IB Courses, and prioritize GWL **LAST** once you're done your primary courses. It is okay to submit GWL work months late, as the GWL teachers themselves don't care enough/don't grade the work until second semester.
 
 ### CAS (Creativity, Activity, Service)
 
