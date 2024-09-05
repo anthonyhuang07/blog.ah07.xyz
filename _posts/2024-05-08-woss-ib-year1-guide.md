@@ -42,6 +42,8 @@ IB at WOSS generally has an enrollment of less than 200 students per grade. Ther
 
 Semester 1 starts chill. You get to know the feel of IB and connect with your niche group of peers. The months of September to November feel normal, and there is generally no pressure. The month before Winter Break begins, you begin your [IAs](#internal-assessments-ias), where you will only be expected to finish a proposal. Over Winter Break, the only things you'll have to do is prepare for your IAs and maybe study extra if you're falling behind in your grades.
 
+Study spots are extremely important to succeed, and one of the best places around is Sheridan College (Which is also where the IB exams take place!). If you have a friend group to study with or you want to study yourself, you have the Library Learning Commons at Sheridan, with many tables to sit at, and even soundproof private rooms you can just go into (if they're vacant of course).
+
 ### Semester 2 
 
 (perform ia)
