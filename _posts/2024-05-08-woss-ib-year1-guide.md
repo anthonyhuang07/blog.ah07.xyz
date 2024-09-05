@@ -185,6 +185,8 @@ I did not have Janssen both semesters but I have heard great things about her te
 
 Your IA is like the course summative - it spans the entirety of the IB course, even if it lasts 2+ semesters, and is always going to be a written report. An IA begins with the proposal - an idea of your topic/experiment and how you're going to write, research and execute it. This proposal must be approved by your teacher in order for you to begin. IAs are different across courses. For example, the sciences (Group 4) are all scientific experiments, so you will be to perform an experiment to collect data and write a report.
 
+The IA is generally 10-20 pages, and depends on the course. In IB Physics, they have the strictest guidelines and marking, with a maximum of 12 pages. Courses like SL Math however, are less nitpicky and are easier to write, and are more lenient with the page limit (when I wrote it, it was about 20 pages, and I wrote 18, however I know some people who wrote more than 30 [DO NOT DO THAT])
+
 ### Exceptions - Language Subjects
 
 In language subjects such as English, French and Spanish, you will be doing an IO (Individual Oral) instead of an IA. It is how it sounds, being a 1 on 1 oral evaluation with your teacher. (i didnt take sl french/spanish so idk how it goes, im gonna ask some ppl for their experience so i can write this section lol)
