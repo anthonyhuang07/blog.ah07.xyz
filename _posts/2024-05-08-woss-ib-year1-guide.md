@@ -125,9 +125,15 @@ The books we read were Le Bourgeois gentilhomme by Molière & Art by Yasmina Rez
 
 (idk apparently its chill, im doing it rn lol)
 
+Resources from my friend:
+- [MSJChem](https://www.youtube.com/@MSJChem/videos)
+
 ### HL Chemistry (SCH3UB)
 
 (not that hard)
+
+Resources from my friend:
+- [MSJChem](https://www.youtube.com/@MSJChem/videos)
 
 ### SL Biology (SBI3UA, SBI4UA)
 
