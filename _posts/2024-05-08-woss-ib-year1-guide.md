@@ -34,15 +34,15 @@ My first year IB exams have ended, where I took the SL Physics and SL Math exams
 
 ## Experience
 
-### Semester 1
-
 I want to preface by saying this: ALP is nothing like IB. You may have thought ALP's rigor prepared you for IB, but in reality, ALP is the same as regular Academic except you have to take Grade 11 Functions in Grade 10. If you noticed, most ALP classes had a mix of ALP and Academic students. So being in ALP was not special. Personally, I think being in ALP was a better experience to get you to know your future IB classmates so you can get along together better, as you have known eachother for two years (or more!) before IB.
 
 IB at WOSS generally has an enrollment of less than 200 students per grade. There are a few that drop IB after first year due to it being a bad experience for them, but I would estimate the number of people to do so to be 10-30 people. This is a very niche group of students compared to all the Grade 11s in the school, which amounts to a few hundred people.
 
-Semester 1 starts chill. You get to know the feel of IB and connect with your niche group of peers. The months of September to November feel normal, and there is generally no pressure. The month before Winter Break begins, you begin your [IAs](#internal-assessments-ias), where you will only be expected to finish a proposal. Over Winter Break, the only things you'll have to do is prepare for your IAs and maybe study extra if you're falling behind in your grades.
+Study spots are extremely important to succeed, and one of the best places around is Sheridan College (Which is also where the IB exams take place!). If you have a friend group to study with or you want to study yourself, you have the Library Learning Commons at Sheridan, with many tables to sit at, and even soundproof private rooms you can just go into (if they're vacant of course). Especially in Semester 2, Sheridan is a great place for IB exam study, as that's the time period where many students escape there during study days and grind it out all day. You can study independently (which is what I did) and also solve questions with others that you don't know how to do.
 
-Study spots are extremely important to succeed, and one of the best places around is Sheridan College (Which is also where the IB exams take place!). If you have a friend group to study with or you want to study yourself, you have the Library Learning Commons at Sheridan, with many tables to sit at, and even soundproof private rooms you can just go into (if they're vacant of course).
+### Semester 1
+
+Semester 1 starts chill. You get to know the feel of IB and connect with your niche group of peers. The months of September to November feel normal, and there is generally no pressure. The month before Winter Break begins, you begin your [IAs](#internal-assessments-ias), where you will only be expected to finish a proposal. Over Winter Break, the only things you'll have to do is prepare for your IAs and maybe study extra if you're falling behind in your grades.
 
 ### Semester 2 
 
@@ -59,7 +59,7 @@ Study spots are extremely important to succeed, and one of the best places aroun
 
 The marks you receive in class from tests or assignments, are in a **raw mark** form. Let's say you got a 20/40 on your IB Physics test. That may sound terrible, because that's a 50% and that is edging failure, right? But 50% is your raw IB mark. The mark that appears on your report card (and the marks you send to university) will be a **converted mark**, which the school converts your IB raw marks to Ontario marks. Raw percentages convert to different Ontario percentages based on the course. In IB Physics, a 50% converts to an 84% (Level 5).
 
-The process of converting raw to converted marks is called **conversions**. Each course has different conversions, and a table of conversions is usually provided by your teacher on their Brightspace. Additionally, I have also made a website that converts these grades for you, so you don't need to find your grade on a complicated table. Check it out here: [ah07.xyz/ibconverter](https://ah07.xyz/ibconverter).
+The process of converting raw to converted marks is called **conversions**. Each course has different conversions, and a table of conversions is usually provided by your teacher on their Brightspace. Additionally, I have also made a website that converts these grades for you, so you don't need to find your grade on a complicated table. **Check it out here: [ah07.xyz/ibconverter](https://ah07.xyz/ibconverter).**
 
 While raw marks convert to different converted marks depending on the course, the converted mark required to get a certain level is the same across all courses. The following are the minimum converted percentages per level:
 - 0% = Level 1
