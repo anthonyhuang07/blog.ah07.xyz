@@ -91,7 +91,7 @@ At the end of an IB course (ex. When you have finished all tests for MHF4UA and 
 
 ### Final IB Grade
 
-Your final IB Grade is the points you achieve from all your courses plus the extra Core points (Extended Essay + Theory of Knowledge). 36 points are possible from achieving Level 7s in all 6 of your courses (6 times 7), plus a maximum of 3 core points, making the maximum achievable grade 45 IB Points. 
+Your final IB Grade is the points you achieve from all your courses plus the extra Core points (Extended Essay + Theory of Knowledge). 42 points are possible from achieving Level 7s in all 6 of your courses (6 times 7), plus a maximum of 3 core points, making the maximum achievable grade 45 IB Points. 
 
 The total number of points only matters for your diploma achievement and if you're applying to universities using your IB Grade (usually only for international applications, because Canadian universities are better to apply with your Ontario grade).
 
